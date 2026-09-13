@@ -14,7 +14,6 @@
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/rust.png?raw=true" width="20" height="20"> Rust | 8/10  |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/go.png?raw=true" width="20" height="20"> Go | 6/10  |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/csharp.png?raw=true" width="20" height="20"> C# | 6/10  |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/c.png?raw=true" width="20" height="20"> C | 5/10  |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/python.png?raw=true" width="20" height="20"> Python | 4/10  |
 
 ---
@@ -23,9 +22,8 @@
 
 | Social media                                                                                                                 | Link                                          |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/x.png?raw=true" width="20" height="20"> X (Twitter) | [@AlkaVile](https://x.com/AlkaVile)               |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/youtube.png?raw=true" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee)      |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/instagram.png?raw=true" width="20" height="20"> Instagram | [alkavile](https://www.instagram.com/alkavile)   |
+| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/x.png?raw=true" width="20" height="20"> X (Twitter) | [@AlkaVile](https://x.com/AlkaVile) |
+| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/youtube.png?raw=true" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee) |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/reddit.png?raw=true" width="20" height="20"> Reddit | [u/alkavile](https://www.reddit.com/user/AlkaVile) |
 
 ---
