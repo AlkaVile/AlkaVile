@@ -12,9 +12,8 @@
 | --------------------------------------------------------------------------------------------------------------------------- | ----- |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/cpp.png?raw=true" width="20" height="20"> C++ | 9/10 |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/rust.png?raw=true" width="20" height="20"> Rust | 8/10  |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/go.png?raw=true" width="20" height="20"> Go | 6/10  |
+| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/go.png?raw=true" width="20" height="20"> Go | 7/10  |
 | <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/csharp.png?raw=true" width="20" height="20"> C# | 6/10  |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/python.png?raw=true" width="20" height="20"> Python | 4/10  |
 
 ---
 
