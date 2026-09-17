@@ -10,10 +10,10 @@
 
 | Programming language                                                                                                        | Level |
 | --------------------------------------------------------------------------------------------------------------------------- | ----- |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/cpp.png?raw=true" width="20" height="20"> C++ | 9/10 |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/rust.png?raw=true" width="20" height="20"> Rust | 8/10  |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/go.png?raw=true" width="20" height="20"> Go | 7/10  |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/lang/csharp.png?raw=true" width="20" height="20"> C# | 6/10  |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/lang/cpp.png" width="20" height="20"> C++ | 9/10 |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/lang/rs.png" width="20" height="20"> Rust | 8/10  |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/lang/go.png" width="20" height="20"> Go | 7/10  |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/lang/cs.png" width="20" height="20"> C# | 6/10  |
 
 ---
 
@@ -21,9 +21,9 @@
 
 | Social media                                                                                                                 | Link                                          |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/x.png?raw=true" width="20" height="20"> X (Twitter) | [@AlkaVile](https://x.com/AlkaVile) |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/youtube.png?raw=true" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee) |
-| <img src="https://github.com/AlkaVile/AlkaVile/blob/main/res/soc/reddit.png?raw=true" width="20" height="20"> Reddit | [u/alkavile](https://www.reddit.com/user/AlkaVile) |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/x.png" width="20" height="20"> X (Twitter) | [@AlkaVile](https://x.com/AlkaVile) |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/ytd.png" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee) |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/reddit.png" width="20" height="20"> Reddit | [u/alkavile](https://www.reddit.com/user/AlkaVile) |
 
 ---
 
