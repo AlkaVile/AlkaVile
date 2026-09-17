@@ -22,7 +22,7 @@
 | Social media                                                                                                                 | Link                                          |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/x.png" width="20" height="20"> X (Twitter) | [@AlkaVile](https://x.com/AlkaVile) |
-| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/ytd.png" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee) |
+| <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/yt.png" width="20" height="20"> YouTube | [@AlkaVileee](https://youtube.com/@AlkaVileee) |
 | <img src="https://raw.githubusercontent.com/AlkaVile/AlkaVile/refs/heads/main/res/soc/reddit.png" width="20" height="20"> Reddit | [u/alkavile](https://www.reddit.com/user/AlkaVile) |
 
 ---
